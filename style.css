@@ -1,0 +1,66 @@
+#heading {
+    text-align: center;
+    font-size: 50px;
+    color: #ECA72C;
+}
+
+body {
+    background-color: #364156;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+.myClass {
+    height: 70vmin;
+    width: 70vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+    color: #1A1B41;
+}
+
+.class2 {
+    height: 20vmin;
+    width: 20vmin;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    background-color: antiquewhite;
+    font-size: 60px;
+}
+
+#myId {
+    height: 5vmin;
+    width: 20vmin;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    border: none;
+    border-radius: 1rem;
+}
+
+.newP {
+    color: cornsilk;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
